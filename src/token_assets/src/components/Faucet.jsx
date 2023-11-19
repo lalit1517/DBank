@@ -31,7 +31,7 @@ function Faucet(props) {
         </span>
         Faucet
       </h2>
-      <label>Get your free CHEEMS tokens here! Claim 10,000 CHEEMS tokens to {props.userPrincipal}.</label>
+      <label>Get your free KING CHEEMS tokens here! Claim 10,000 KING CHEEMS tokens to {props.userPrincipal}.</label>
       <p className="trade-buttons">
         <button 
         id="btn-payout" 

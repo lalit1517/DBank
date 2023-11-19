@@ -4,12 +4,12 @@ function Header() {
   return (
     <header>
       <div className="blue window" id="logo">
-        <h1>
+        <h2 class="center">
           <span role="img" aria-label="tap emoji">
-            💎
+          <a href="https://emoji.gg/emoji/6428_king_cheems"><img src="https://cdn3.emoji.gg/emojis/6428_king_cheems.png" width="50px" height="50px" alt="king_cheems" /></a>
           </span>
-          DSurv
-        </h1>
+          TokenHarbor
+        </h2>
       </div>
     </header>
   );

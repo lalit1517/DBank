@@ -49,7 +49,12 @@ html {
     width: 50%;
   }
   
-  .window h1 {
+  .window h2 {
+    text-align: center;
+  }
+
+  .window.blue label{
+    display: block;
     text-align: center;
   }
   
