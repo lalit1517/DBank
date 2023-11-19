@@ -1,6 +1,18 @@
 Catch the live running project at https://5dttj-2yaaa-aaaal-qch7a-cai.raw.icp0.io/
 
-NECESSARY STEPS FOR WORKING ON THIS PROJECT:
+# TokenHarbor
+
+DFaucet is an authenticated decentralized platform that provides users with the opportunity to claim free tokens and engage in seamless token transactions using their principal ID that serves as their digital wallet addresses within the platform. The site is designed to offer a user-friendly experience, making it easy for both beginners and experienced users to navigate and take advantage of its features.
+
+## Features
+
+- Users can log in to DFaucet and claim free tokens. This feature encourages user engagement and participation in the platform.
+- TokenHarbor allows users to send tokens to others effortlessly. This feature promotes a decentralized and efficient way of transferring value within the platform.
+- The platform boasts an intuitive and user-friendly interface, making it easy for users to navigate and access the various features offered by the platform.
+- Each user is assigned a unique principal ID, serving as their digital wallet address within the platform. This ID is used for both receiving and sending tokens, adding an extra layer of security and personalization.
+- Users can easily check their token balance on the platform. This transparency allows users to keep track of their holdings and monitor their activity within the platform.
+
+## NECESSARY STEPS FOR WORKING ON THIS PROJECT
 
 # Check your Balance
 
